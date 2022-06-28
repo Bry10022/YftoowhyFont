@@ -4,7 +4,7 @@ FullName: Yftoowhy Regular
 FamilyName: Yftoowhy
 Weight: Regular
 Copyright: Copyright (c) 2022, Pootis Type Corp.
-UComments: "2022-6-13: Created with FontForge (http://fontforge.org)+AAoACgAA-STILL IN DEVELOPMENT, THIS IS NOT A FINISHED BUILD!! WE RECOMMEND WAITING UNTIL THEN."
+UComments: "2022-6-13: Created with FontForge (http://fontforge.org)"
 Version: 1.005
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1649086480
-ModificationTime: 1656433184
+ModificationTime: 1656444547
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
