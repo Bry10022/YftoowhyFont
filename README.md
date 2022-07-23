@@ -14,6 +14,7 @@ If you find any issues when you are using the font, please open an issue under t
 - Don't claim it as your own work. I put hours of hard work into this font.
 - Don't sell the font.
 - Don't change the license of the font (due to its Share-Alike nature).
+- You may not put this font behind a paywall or charge users to use the font.
 - It is not recommended to edit the .ttf file directly. I have provided the .sfd file for editing purposes.
 
 # How to install fonts on Windows
