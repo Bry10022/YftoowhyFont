@@ -11,6 +11,8 @@ Sections marked with the ‡ symbol are required. If a certain section does not 
 
 Please make sure you use proper spelling, grammar, and capitalization so we can read your report. Leeway may be given to non-native speakers of English. Make sure that your report is written in English. If you do not speak or write English, please use a translator (like Google or Bing Translate).
 
+The hard limit for the number of characters to add is 512. Please make sure your request does not add more than that to the font.
+
 - - - -
 **What would you like added or changed about the font?‡**
 Make sure to include codepoints/character names, separated by commas, so I can find it easier.
