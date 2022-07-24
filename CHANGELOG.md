@@ -2,6 +2,10 @@ We hope you enjoy using the Yftoowhy font, as long as it is within the terms of 
 
 # Changelog and Development of the Yftoowhy font #
 
+### Version 1.002 ###
+- Changes:
+  - Corrected width of 𐌰 (Ahsa) and 𐌻 (Lagus) because I did not notice there was extra spacing after them.
+- - - -
 ### Version 1.001 ###
 - Additions:
   - Added Shavian, which is a phonetic alphabet of the English language
