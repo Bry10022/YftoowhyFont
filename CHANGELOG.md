@@ -2,13 +2,21 @@ We hope you enjoy using the Yftoowhy font, as long as it is within the terms of 
 
 # Changelog and Development of the Yftoowhy font #
 
+
+### Version 1.004 ###
+- Additions:
+  - Added arbitrary fractions in the Private Use Area (from E100)
+  - Added ⤡ and ⤢
+- Changes:
+  - Removed some stray points on fractional characters, superscripts, and subscript characters
+- - - -
 ### Version 1.003 ###
 - Additions:
-  - Added Kaktovik Numerals, one of the newer Unicode 15.0 clocks
+  - Added Kaktovik Numerals, one of the newer Unicode 15.0 blocks
 - - - -
 ### Version 1.002 ###
 - Changes:
-  - Corrected width of 𐌰 (Ahsa) and 𐌻 (Lagus) because I did not notice there was extra spacing after them.
+  - Corrected width of 𐌰 (Ahsa) and 𐌻 (Lagus) because I did not notice there was extra spacing after them
 - - - -
 ### Version 1.001 ###
 - Additions:
