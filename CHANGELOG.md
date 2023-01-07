@@ -2,7 +2,18 @@ We hope you enjoy using the Yftoowhy font, as long as it is within the terms of 
 
 # Changelog and Development of the Yftoowhy font #
 
-
+### Version 1.005 ###
+- Additions:
+  - Added the NoDerivatives symbol for Creative Commons licenses.
+  - Added ₸ for Kazakhstan.
+  - Added Ӷ, ӷ, Ԥ, and ԥ for Abkhaz.
+  - Added Ԛ, ԛ, Ԝ, and ԝ.
+  - Added Ǵ and ǵ for no particular reason, other than to complete the 2018 Kazakh alphabet.
+  - Added 〶 symbol for electronics of type B. THIS IS NOT A POSTAL MARK!
+  - Added an ✉ symbol to indicate mail.
+- Changes:
+  - Fixed ⌂ symbol.
+- - - -
 ### Version 1.004 ###
 - Additions:
   - Added arbitrary fractions in the Private Use Area (from E100)
