@@ -13,6 +13,7 @@ We hope you enjoy using the Yftoowhy font, as long as it is within the terms of 
   - Added an ✉ symbol to indicate mail.
 - Changes:
   - Fixed ⌂ symbol.
+  - Corrected width of ƅ.
 - - - -
 ### Version 1.004 ###
 - Additions:
