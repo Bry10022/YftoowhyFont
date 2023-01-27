@@ -2,6 +2,11 @@ We hope you enjoy using the Yftoowhy font, as long as it is within the terms of 
 
 # Changelog and Development of the Yftoowhy font #
 
+### Version 1.006 ###
+- Changes:
+  - Squashed several width-related bugs.
+  - That should hopefully be the last of the width-related bugs.
+- - - -
 ### Version 1.005 ###
 - Additions:
   - Added the NoDerivatives symbol for Creative Commons licenses.
