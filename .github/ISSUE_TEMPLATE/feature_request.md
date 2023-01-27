@@ -30,5 +30,5 @@ Add any other context or screenshots about the feature request here.
 **Confirm your request**
 Please make sure that you are filing this issue in good faith. Trolling, spam, or other bad behavior in violation of Github's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) won't be tolerated.
 
-**We will only accept issues that are for version 1.005**
+**We will only accept issues that are for version 1.006**
 Issues intended for earlier versions of this font will not be considered.
