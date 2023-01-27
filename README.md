@@ -1,5 +1,5 @@
 # YftoowhyFont
-Current Version: 1.005
+Current Version: 1.006
 
 If you find any issues when you are using the font, please open an issue under the Issues Tab. Please make sure to be descriptive when reporting issues with the font that you have encountered.
 
